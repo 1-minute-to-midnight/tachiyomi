@@ -41,6 +41,7 @@ object PreferenceValues {
         YINYANG(R.string.theme_yinyang),
         YOTSUBA(R.string.theme_yotsuba),
         TIDAL_WAVE(R.string.theme_tidalwave),
+        CRAYOLA_BLUE(R.string.theme_crayolablue),
 
         // Deprecated
         DARK_BLUE(null),
