@@ -44,6 +44,9 @@ interface ThemingDelegate {
                 PreferenceValues.AppTheme.TIDAL_WAVE -> {
                     resIds += R.style.Theme_Tachiyomi_TidalWave
                 }
+                PreferenceValues.AppTheme.CRAYOLA_BLUE -> {
+                    resIds += R.style.Theme_Tachiyomi_CrayolaBlue
+                }
                 else -> {
                     resIds += R.style.Theme_Tachiyomi
                 }
